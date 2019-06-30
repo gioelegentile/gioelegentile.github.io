@@ -3524,7 +3524,7 @@ body {
 
 .section-about .profile-photo {
     margin-right: 10%;
-    margin-bottom: 10px;
+    margin-bottom: 10%;
 }
 
 .section-about .profile-info {
@@ -6663,6 +6663,11 @@ body {
 
 .no-boxshadow.theme-skin-dark .timeline-box-inner {
     border: 1px solid #525458 !important;
+}
+
+.py {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
